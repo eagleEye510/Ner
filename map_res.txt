@@ -1,0 +1,5 @@
+place-北京	1
+person-习近平	1
+time-第三十四	1
+place-北京	1
+person-习近平	1
