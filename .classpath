@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/fastjson-1.2.31.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="libs/mongo-java-driver-3.4.2.jar" sourcepath="C:/Users/晓庆/.m2/repository/org/mongodb/mongo-java-driver/3.4.2/mongo-java-driver-3.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="libs/seg.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
